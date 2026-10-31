@@ -2,7 +2,7 @@
 
 A simple Windows launcher for Prison Life's normal and voice chat servers.
 
-Requires 64-bit Windows 10/11 and Roblox installed and signed in. .NET Framework is not required.
+Requires 64-bit Windows 10/11 and Roblox installed and signed in.
 
 ## How it works
 
